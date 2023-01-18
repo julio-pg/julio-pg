@@ -17,7 +17,7 @@
 - 🌐 &nbsp; Android | React Native | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; Mongo db | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | Visual Studio code | Expo | Git
-- 🖥 &nbsp; | Photoshop | Krita
+- 🖥 &nbsp; Photoshop | Krita
 
 <br>
 
@@ -31,8 +31,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+
 &nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/julio-francisco-pati%C3%B1o-granda-a00225252/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:franjp132@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
