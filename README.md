@@ -10,7 +10,7 @@
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Software Development.
 - 🎮 &nbsp; Listen to music and play Video Games as hobbies/side hustles.
-- 🎵 &nbsp; Listening to music and programming are my escape from reality.
+- 🎧 &nbsp; Listening to music and programming are my escape from reality.
 
 <h3>🛠 Tech Stack</h3>
 
