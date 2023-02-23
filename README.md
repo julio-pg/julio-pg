@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Julio Patiño. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
