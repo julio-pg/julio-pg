@@ -7,8 +7,8 @@
 - 🔭 &nbsp; I’m currently learning cybersecurity and ethical hacking.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Study in Open Bootcamp and self-taught.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in Software Development.
+- 💼 &nbsp; Cybersecurity analyst ando Fullstack developer.
+- 🌱 &nbsp; Enthusiast in Cybersecutity and Software Development.
 - 🎮 &nbsp; Listen to music and play Video Games as hobbies/side hustles.
 - 🎧 &nbsp; Listening to music and programming are my escape from reality.
 
