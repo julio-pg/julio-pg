@@ -14,10 +14,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Kotlin  
-- 🌐 &nbsp; Android | React Native | HTML | CSS | JavaScript | Material UI | Tailwindcss
+- 💻 &nbsp; JavaScript | Python
+- 🖥️ &nbsp; Linux | Windows    
+- 🌐 &nbsp; React | React Native | HTML | CSS | JavaScript | Material UI | Tailwindcss
 - 🛢 &nbsp; Mongo db | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Expo | Git
+- 🔧 &nbsp; Virtual box | Visual Studio code | Expo | Git
 - 🖥 &nbsp; Photoshop | Krita
 
 <br>
