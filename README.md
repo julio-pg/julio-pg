@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning cybersecurity and ethical hacking.
+- 🔭 &nbsp; I’m currently learning Data science and Machine learning.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Study in Open Bootcamp and self-taught.
 - 💼 &nbsp; Cybersecurity analyst and Fullstack developer.
