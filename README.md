@@ -7,8 +7,8 @@
 - 🔭 &nbsp; I’m currently learning Data science and Machine learning.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Study in Open Bootcamp and self-taught.
-- 💼 &nbsp; Cybersecurity analyst and Fullstack developer.
-- 🌱 &nbsp; Enthusiast in Cybersecutity and Software Development.
+- 💼 &nbsp; Data Scientist and Fullstack developer.
+- 🌱 &nbsp; Enthusiast in Machine Learning and Software Development.
 - 🎮 &nbsp; Listen to music and play Video Games as hobbies/side hustles.
 - 🎧 &nbsp; Listening to music and programming are my escape from reality.
 
@@ -17,7 +17,7 @@
 - 💻 &nbsp; JavaScript | Python
 - 💽 &nbsp; Linux | Windows    
 - 🌐 &nbsp; React | React Native | HTML | CSS | JavaScript | Material UI | Tailwindcss
-- 🛢 &nbsp; Mongo db | Firebase | Xampp
+- 🛢 &nbsp; SQL | Mongo db | Firebase | Xampp
 - 🔧 &nbsp; Virtual box | Visual Studio code | Expo | Git
 - 🖥 &nbsp; Photoshop | Krita
 
