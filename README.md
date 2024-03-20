@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Data science and Machine learning.
+- 🔭 &nbsp; I’m currently learning Web3 development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Study in Open Bootcamp and self-taught.
 - 💼 &nbsp; Data Scientist and Fullstack developer.
