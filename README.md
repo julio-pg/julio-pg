@@ -6,9 +6,8 @@
 
 - 🔭 &nbsp; I’m currently learning Web3 development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Study in Open Bootcamp and self-taught.
-- 💼 &nbsp; Data Scientist and Fullstack developer.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Software Development.
+- 💼 &nbsp; Fullstack developer at @Mysticswap.
+- 🌱 &nbsp; Enthusiast in Web3 and Software Development.
 - 🎮 &nbsp; Listen to music and play Video Games as hobbies/side hustles.
 - 🎧 &nbsp; Listening to music and programming are my escape from reality.
 
