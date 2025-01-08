@@ -4,9 +4,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 🔭 &nbsp; I'm currently learnig AI and machine learnig.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Fullstack developer at .
-- 🌱 &nbsp; Enthusiast in Web3 and Software Development.
+<!---  - 💼 &nbsp; Fullstack developer at .--> 
+- 🌱 &nbsp; Enthusiast in AI and Software Development.
 - 🎮 &nbsp; Listen to music and play Video Games as hobbies/side hustles.
 - 🎧 &nbsp; Listening to music and programming are my escape from reality.
 
@@ -14,9 +15,9 @@
 
 - 💻 &nbsp; JavaScript | Python
 - 💽 &nbsp; Linux | Windows    
-- 🌐 &nbsp; React | React Native | HTML | CSS | JavaScript | Material UI | Tailwindcss
+- 🌐 &nbsp; React | React Native | HTML | CSS | JavaScript | Tailwindcss | Shadcn-ui
 - 🛢 &nbsp; SQL | Mongo db | Firebase
-- 🔧 &nbsp; Virtual box | Visual Studio code | Git
+- 🔧 &nbsp; Cursor | Visual Studio code | Git
 - 🖥 &nbsp; Photoshop | Krita
 
 <br>
