@@ -15,10 +15,10 @@
 
 - 💻 &nbsp; JavaScript | Python
 - 💽 &nbsp; Linux | Windows    
-- 🌐 &nbsp; React | React Native | HTML | CSS | JavaScript | Tailwindcss | Shadcn-ui
+- 🌐 &nbsp; React | React Native | TypeScript | Tailwindcss | Shadcn-ui
 - 🛢 &nbsp; SQL | Mongo db | Firebase
 - 🔧 &nbsp; Cursor | Visual Studio code | Git
-- 🖥 &nbsp; Photoshop | Krita
+- 🖥 &nbsp; Photoshop | Krita | DaVinci Resolve
 
 <br>
 
