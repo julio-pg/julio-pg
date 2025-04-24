@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I'm currently learnig AI and machine learnig.
+- 🔭 &nbsp; I'm currently learnig AI and web3 development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 <!---  - 💼 &nbsp; Fullstack developer at .--> 
-- 🌱 &nbsp; Enthusiast in AI and Software Development.
-- 🎮 &nbsp; Listen to music and play Video Games as hobbies/side hustles.
+- 🌱 &nbsp; Enthusiast in AI, Web3 and Software Development.
+- 🎮 &nbsp; Listen to music and Content Creation as hobbies/side hustles.
 - 🎧 &nbsp; Listening to music and programming are my escape from reality.
 
 <h3>🛠 Tech Stack</h3>
