@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Julio Patiño. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B3bXNicXNxMWwydW9zaTh0aTZjeWR4dm0xMWJxMDc0ZTJjd3FwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QYkX9IMHthYn0Y3pcG/giphy.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJnbGlucDVwcmltOW94dmM2dWxkNTJtamh1bjNzc2pscGQxeXVicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pYbw8HkA2SO5UKZYj/giphy.webp" width="500"/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE0Z2pjeDFkemwzeHpkdHkybThmcmp1bWNwNGtseW94d3ZjODdvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CIUUKp7vsPdy8/giphy.gif" width="500"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
